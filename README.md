@@ -1,4 +1,4 @@
-# Login com PHP ETC - 2025/2
+# Login com PHP ETC - 2025/2 
 Esqueleto para projeto alunos 2025.2
 
 ## Requisitos
