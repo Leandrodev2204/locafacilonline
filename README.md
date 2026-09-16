@@ -7,7 +7,7 @@ Sistema web para gestão de aluguéis / reservas de veículos, desenvolvido em P
 
 ## 🎯 Objetivo
 
-Objetivo desse sistema era otimizar o processo de locação de veículos, sendo realizado 100% de forma online pelo usuário.
+Oferecer uma plataforma online para locação de veículos, permitindo que usuários consultem a frota disponível, façam reservas e acompanhem seus aluguéis, enquanto administradores gerenciam veículos, clientes e contratos.
 
 ## 🚀 Funcionalidades
 
