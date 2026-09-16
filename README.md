@@ -19,9 +19,13 @@ Objetivo desse sistema era otimizar o processo de locação de veículos, sendo 
 
 🛠️ Tecnologias utilizadas
 
-- PHP
-- MySQL - Workbench
-- 
+- PHP;
+- HTML;
+- CSS;
+- Bootstrap;
+- JavaScript;
+- MySQL - Workbench;
+  
 
 
 📌 Status
