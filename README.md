@@ -1,15 +1,15 @@
-Projeto TCC ETC (Escola Técnica de Ceilândia) 
+## Projeto TCC ETC (Escola Técnica de Ceilândia) 
 Técnico em Informática
 
-Nome do sistema: LocaFácil Online
+## Nome do sistema: LocaFácil Online
 
 Sistema web para gestão de aluguéis / reservas de veículos, desenvolvido em PHP.
 
-🎯 Objetivo
+## 🎯 Objetivo
 
 Objetivo desse sistema era otimizar o processo de locação de veículos, sendo realizado 100% de forma online pelo usuário.
 
-🚀 Funcionalidades
+## 🚀 Funcionalidades
 
 - Cadastro de veículos disponíveis para locação;
 - Gerenciamento de reservas/contratos;
@@ -17,7 +17,7 @@ Objetivo desse sistema era otimizar o processo de locação de veículos, sendo 
 - Autenticação de usuários;
 
 
-🛠️ Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
 - PHP;
 - HTML;
@@ -28,6 +28,6 @@ Objetivo desse sistema era otimizar o processo de locação de veículos, sendo 
   
 
 
-📌 Status
+## 📌 Status
 
 Projeto concluído em Dezembro/2025.
