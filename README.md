@@ -23,7 +23,6 @@ Objetivo desse sistema era otimizar o processo de locação de veículos, sendo 
 - HTML;
 - CSS;
 - Bootstrap;
-- JavaScript;
 - MySQL - Workbench;
   
 
